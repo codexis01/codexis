@@ -1,5 +1,5 @@
  /* Why choose codexis */
-@media (max-width: 768px) {
+ @media (max-width: 768px) {
   .features {
     flex-direction: column;
     gap: 1rem;
@@ -734,7 +734,7 @@
 @media (max-width: 720px)  {
   /* homepage */
   h1{
-      font-size:40px ;
+      font-size:60px ;
       width: auto;
   }
   h5{
@@ -747,7 +747,7 @@
   width:auto;
   }
   .homepage_image{
-  width: 450px;
+  width: 550px;
   }
   
   /* Explore Our Services */
@@ -794,6 +794,7 @@
   }
   .profile{
   margin-top: 10px;
+  width: 200px;
   }
   .whyChooseUs{ display: flex;flex-direction:row-reverse;}
   .reached h3{
@@ -856,6 +857,18 @@
   .Vision{
   width: 300px;
   }
+  .card{
+    margin-left: 160px;
+    width: 360px;
+    height: 200px;
+   } 
+   .card h5{
+    font-size: 16px;
+   }
+   .card p{
+    font-size: 10px;
+    padding: 8px;
+   }
   }
 
 /* 576 screens */
@@ -886,7 +899,6 @@
   width: 300px;
   height: auto;
   font-size: 40px;
-  
   }
   .explore p{
   width: auto;
@@ -895,6 +907,18 @@
   .web{
   margin-top: 25px;
   }
+  .card{
+    margin-left: 100px;
+    width: 360px;
+    height: 200px;
+   } 
+   .card h5{
+    font-size: 16px;
+   }
+   .card p{
+    font-size: 10px;
+    padding: 8px;
+   }
   
   /* About us */
   .about{
@@ -935,13 +959,13 @@
   text-align: center;
   }
   .icon svg{
-  width: 18px;
+  width: 30px;
   }
   .location h3{
-  font-size: 12px;
+  font-size: 16px;
   }
   .location p{
-  font-size: 8px;
+  font-size: 12px;
   }
   .social_media{
   display: flex;flex-direction:column-reverse;
@@ -1004,7 +1028,7 @@
   width:auto;
   }
   .homepage_image{
-  width: 250px;
+  width: 450px;
   }
   
   /* Explore Our Services */
@@ -1113,6 +1137,18 @@
   .Vision{
   width: 300px;
   }
+  .card{
+    margin-left: 45px;
+    width: 360px;
+    height: 200px;
+   } 
+   .card h5{
+    font-size: 16px;
+   }
+   .card p{
+    font-size: 10px;
+    padding: 8px;
+   }
   }
 
 /* 412 screens */
@@ -1142,7 +1178,6 @@
   width: 300px;
   height: auto;
   font-size: 40px;
-  
   }
   .explore p{
   width: auto;
@@ -1241,6 +1276,17 @@
   .Vision{
   width: 300px;
   }
+  .card{
+    width: 385px;
+    height: 200px;
+   } 
+   .card h5{
+    font-size: 16px;
+   }
+   .card p{
+    font-size: 10px;
+    padding: 8px;
+   }
   }
 
 /* 384 screens */
@@ -1369,6 +1415,17 @@
   .Vision{
   width: 300px;
   }
+  .card{
+    width: 360px;
+    height: 200px;
+   } 
+   .card h5{
+    font-size: 16px;
+   }
+   .card p{
+    font-size: 10px;
+    padding: 8px;
+   }
   }
 
 
@@ -1395,6 +1452,17 @@
   /* Explore Our Services */
   .project-even {display: flex;flex-direction:column-reverse;
   }
+  .card{
+    width: 345px;
+    height: 200px;
+   } 
+   .card h5{
+    font-size: 16px;
+   }
+   .card p{
+    font-size: 10px;
+    padding: 10px;
+   }
   .explore h2{
   width: 300px;
   height: auto;
@@ -1626,6 +1694,17 @@
   .Vision{
   width: 300px;
   }
+  .card{
+    width: 340px;
+    height: 200px;
+   } 
+   .card h5{
+    font-size: 16px;
+   }
+   .card p{
+    font-size: 10px;
+    padding: 10px;
+   }
   }
 
 
@@ -1754,6 +1833,17 @@ font-size: 25px;
 .Vision{
 width: 300px;
 }
+.card{
+  width: 335px;
+  height: 200px;
+ } 
+ .card h5{
+  font-size: 16px;
+ }
+ .card p{
+  font-size: 10px;
+  padding: 10px;
+ }
 }
 /* 344 screens */
 @media (max-width: 344px)  {
@@ -1881,6 +1971,17 @@ margin: 20px;
 .Vision{
   width: 300px;
 }
+.card{
+  width: 320px;
+  height: 200px;
+ } 
+ .card h5{
+  font-size: 16px;
+ }
+ .card p{
+  font-size: 10px;
+  padding: 8px;
+ }
 }
 
 /* 320 screens */
@@ -1978,6 +2079,17 @@ width:auto;
   display: flex;flex-direction:column-reverse;
 
 }
+   .card{
+    width: 300px;
+    height: 200px;
+   } 
+   .card h5{
+    font-size: 16px;
+   }
+   .card p{
+    font-size: 10px;
+    padding: 10px;
+   }
 .form-container {
   background-color: #fff;
   padding: 2rem;
