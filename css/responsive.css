@@ -505,10 +505,10 @@
     width: 40px;
     height: 40px;
   }
-  .career1{
+  /* .career1{
   display: flex;flex-direction:column-reverse;
   
-  }
+  } */
   .form-container {
   background-color: #fff;
   padding: 2rem;
@@ -685,10 +685,7 @@
     width: 40px;
     height: 40px;
   }
-  .career1{
-  display: flex;flex-direction:column-reverse;
   
-  }
   .form-container {
   background-color: #fff;
   padding: 2rem;
@@ -857,9 +854,24 @@
   text-align: center;
   }
   .career1{
-  display: flex;flex-direction:column-reverse;
-  
+    display: flex;flex-direction:column-reverse;
+    width: 600px;
   }
+  .career1 p{
+    font-size: 18px;
+   }
+   .career1 h3{
+     font-size: 26px;
+    }
+  .career2{
+    width: 600px;
+  }
+  .career2 p{
+   font-size: 18px;
+  }
+  .career2 h3{
+    font-size: 26px;
+   }
   .form-container {
   background-color: #fff;
   padding: 2rem;
@@ -892,7 +904,7 @@
   width: 300px;
   }
   .card{
-    margin-left: 160px;
+    /* margin-right: 100px; */
     width: 360px;
     height: 200px;
    } 
@@ -949,7 +961,7 @@
   margin-top: 25px;
   }
   .card{
-    margin-left: 100px;
+    margin-right: 140px;
     width: 360px;
     height: 200px;
    } 
@@ -1016,9 +1028,24 @@
   text-align: center;
   }
   .career1{
-  display: flex;flex-direction:column-reverse;
-  
+    display: flex;flex-direction:column-reverse;
+    width: 500px;
   }
+  .career1 p{
+    font-size: 16px;
+   }
+   .career1 h3{
+     font-size: 22px;
+    }
+  .career2{
+    width: 500px;
+  }
+  .career2 p{
+   font-size: 16px;
+  }
+  .career2 h3{
+    font-size: 22px;
+   }
   .form-container {
   background-color: #fff;
   padding: 2rem;
@@ -1157,9 +1184,24 @@
   text-align: center;
   }
   .career1{
-  display: flex;flex-direction:column-reverse;
-  
+    display: flex;flex-direction:column-reverse;
+    width: 400px;
   }
+  .career1 p{
+    font-size: 16px;
+   }
+   .career1 h3{
+     font-size: 22px;
+    }
+  .career2{
+    width: 400px;
+  }
+  .career2 p{
+   font-size: 16px;
+  }
+  .career2 h3{
+    font-size: 22px;
+   }
   .form-container {
   background-color: #fff;
   padding: 2rem;
@@ -1192,7 +1234,7 @@
   width: 300px;
   }
   .card{
-    margin-left: 45px;
+    margin-right:90px;
     width: 360px;
     height: 200px;
    } 
@@ -1304,9 +1346,24 @@
   text-align: center;
   }
   .career1{
-  display: flex;flex-direction:column-reverse;
-  
+    display: flex;flex-direction:column-reverse;
+    width: 300px;
   }
+  .career1 p{
+    font-size: 14px;
+   }
+   .career1 h3{
+     font-size: 20px;
+    }
+  .career2{
+    width: 300px;
+  }
+  .career2 p{
+   font-size: 14px;
+  }
+  .career2 h3{
+    font-size: 20px;
+   }
   .form-container {
   background-color: #fff;
   padding: 2rem;
@@ -1450,9 +1507,24 @@
   text-align: center;
   }
   .career1{
-  display: flex;flex-direction:column-reverse;
-  
+    display: flex;flex-direction:column-reverse;
+    width: 300px;
   }
+  .career1 p{
+    font-size: 14px;
+   }
+   .career1 h3{
+     font-size: 20px;
+    }
+  .career2{
+    width: 300px;
+  }
+  .career2 p{
+   font-size: 14px;
+  }
+  .career2 h3{
+    font-size: 20px;
+   }
   .form-container {
   background-color: #fff;
   padding: 2rem;
@@ -1608,8 +1680,11 @@
   text-align: center;
   }
   .career1{
-  display: flex;flex-direction:column-reverse;
-  
+    display: flex;flex-direction:column-reverse;
+    width: 300px;
+  }
+  .career2{
+    width: 300px;
   }
   .form-container {
   background-color: #fff;
@@ -1743,8 +1818,11 @@
   text-align: center;
   }
   .career1{
-  display: flex;flex-direction:column-reverse;
-  
+    display: flex;flex-direction:column-reverse;
+    width: 300px;
+  }
+  .career2{
+    width: 300px;
   }
   .form-container {
   background-color: #fff;
@@ -1890,8 +1968,11 @@ margin-top: 20px;
 text-align: center;
 }
 .career1{
-display: flex;flex-direction:column-reverse;
-
+  display: flex;flex-direction:column-reverse;
+  width: 300px;
+}
+.career2{
+  width: 300px;
 }
 .form-container {
 background-color: #fff;
@@ -2039,7 +2120,10 @@ width:auto;
 }
 .career1{
   display: flex;flex-direction:column-reverse;
-
+  width: 300px;
+}
+.career2{
+  width: 300px;
 }
 .form-container {
   background-color: #fff;
@@ -2057,7 +2141,7 @@ margin: 20px;
   text-align: center;
 }
 .box{
-  margin-left: 80px;
+  margin-left: 40px;
   width: 210px;
  }
  .box1{
@@ -2187,9 +2271,10 @@ width:auto;
   margin-top: 20px;
   text-align: center;
 }
+
 .career1{
   display: flex;flex-direction:column-reverse;
-
+  /* width: 250px; */
 }
    .card{
     width: 200px;
