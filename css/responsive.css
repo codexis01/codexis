@@ -1234,7 +1234,7 @@
   width: 300px;
   }
   .card{
-    margin-left:15px;
+    /* margin-left:15px; */
     width: 360px;
     height: 200px;
    } 
